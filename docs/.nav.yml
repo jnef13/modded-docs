@@ -1,0 +1,5 @@
+nav:
+  - Home:
+    - index.md
+  - JIV: jiv
+  - Blog: blog
